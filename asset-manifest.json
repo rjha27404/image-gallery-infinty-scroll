@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-gallery-infiniteScroll/static/css/main.a42905e8.css",
+    "main.js": "/react-gallery-infiniteScroll/static/js/main.cd7c0615.js",
+    "index.html": "/react-gallery-infiniteScroll/index.html",
+    "main.a42905e8.css.map": "/react-gallery-infiniteScroll/static/css/main.a42905e8.css.map",
+    "main.cd7c0615.js.map": "/react-gallery-infiniteScroll/static/js/main.cd7c0615.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a42905e8.css",
+    "static/js/main.cd7c0615.js"
+  ]
+}
